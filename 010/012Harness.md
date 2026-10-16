@@ -20,7 +20,7 @@ OpenAI 在介绍 Codex Agent Loop 时，明确将 Agent Loop 描述为协调用�
 
 先看一张简化的架构图。
 
-![AI Agent 的整体架构](https://oilinil.cn/api/files/2026/10/2e14cf9e63250de2fd0569ceaee29fec/agent-1.webp)
+![AI Agent 的整体架构](https://oilinil.cn/api/files/2026/10/161c13a7383871841071ec76abf371af/agent-1.webp)
 
 这里最重要的是将三个组件分开。
 
